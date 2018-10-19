@@ -1,0 +1,3 @@
+Subject: parsing preference v2 languages
+
+has been claimed ( incorrectly ) german sentence nominative / accusative case syncretism ( 1 ) is unambiguous , clause-initial noun phrase construed subject . ( 1 ) die tochter hat die mutter gek " usst . the-nom / acc daughter has the-nom / acc mother kissed allegedly svo : daughter kissed mother . allegedly ovs : mother kissed daughter . although ( 1 ) is fact ambiguous , svo interpretation does seem preferred over ovs interpretation , least out-of - the-blue contexts . anyone steer discussion examples ( german verb-second language ) parsing literature ? many thanks , beatrice santorini b-santorini @ nwu . edu

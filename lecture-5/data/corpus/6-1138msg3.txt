@@ -1,0 +1,3 @@
+Subject: english parser / tagger
+
+' m looking lemmatizer english / lemmatized corpus . hints ? thanks advance . marc
