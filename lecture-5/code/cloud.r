@@ -7,9 +7,9 @@ cloud <- function(x,y,r,N,color) {
    return(data.frame(xs,ys,cs))
 }
 
-A <- cloud(-1,-2,0.75,150,0)
-B <- cloud(0,1.5,0.50,100,1)
-C <- cloud(2,-1.5,0.25,250,2)
+A <- cloud(-1,-2,0.75,150,"black")
+B <- cloud(0,1.5,0.50,100,"red")
+C <- cloud(2,-1.5,0.25,250,"green")
 
 res <- rbind(A,B,C)
 write.table(res, file="data/clusters.csv", quote=FALSE, sep=",")
